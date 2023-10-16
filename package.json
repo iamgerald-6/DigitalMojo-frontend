@@ -1,5 +1,5 @@
 {
-  "homepage": "https://iamgerald-6.github.io/Digital-Mojo-frontend",
+  "homepage": "https://iamgerald-6.github.io/DigitalMojo-frontend",
   "name": "dm-frontend",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }

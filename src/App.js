@@ -8,6 +8,7 @@ import {CatalogPage} from "./pages/CatalogPage";
 import { TemplatesPage } from "./pages/TemplatesPage";
 import { RecentPages } from "./pages/RecentPages";
 import { InspirationPage } from "./pages/InspirationPage";
+import { IntoCoursesPages } from "./pages/IntoCoursesPages";
 // import { SecondNav } from "./components/SecondNav";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path='tutorials' element={<TutorialsPage/>}/>
         <Route path='templates' element={<TemplatesPage/>}/>
         <Route path='courses' element ={<RecentPages/>}/>
+        <Route path='intocourse' element ={<IntoCoursesPages/>}/>
         <Route path ='catalog' element={<CatalogPage/>}/>
         <Route path ='Inspiration' element={<InspirationPage/>}/>
       </Routes>

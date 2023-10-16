@@ -36,7 +36,7 @@ import { Link } from 'react-router-dom';
                     <div className='col-lg-3'>
                         <img className =' img-fluid' src={RecentCourse3} alt='TutorialPic3'/>
                         <div id={props.elementId}className='certified-container  mt-2 ms-2'><LuCrown className=''/><span className='ms-2'>Certified course</span></div>
-                        <h6 className='mt-2 font-size fw-bold'>Facebook marketing</h6>
+                        <h6 className='mt-2 font-size fw-bold'><Link to ='/intocourse' className='course-text-edit'>Facebook marketing</Link></h6>
                         <p className='mt-2 '>Learn home to utilize the facebook marketing to sell products and services</p>
                     </div>
 

@@ -276,3 +276,12 @@
 #props-certified{
     display: none !important;;
 }
+
+.course-text-edit{
+    text-decoration: none;
+    color: #060508;
+}
+
+.free-text-edit{
+    color:#6A6960;
+}
