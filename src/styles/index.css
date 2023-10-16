@@ -1,0 +1,278 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none !important;
+}
+
+/* Aside Bar */
+.text-color-title {
+    color:#E9FF9D;
+    font-family: Unbounded;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+
+.aside-width{
+    width:250px;
+    flex-shrink: 0;
+    border-radius: 0px 25px 25px 0px;
+    height:900px;
+    
+}
+
+
+.aside-margin{
+    margin: 0px 25px;
+    top:55%;
+    
+}
+.aside-container-1{
+    width: 152.448px;
+    height: 168.375px;
+    background-color: #FDFFA9;
+    border-radius: 12.818px;
+    padding:10px 0;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px !important;
+    /* margin: 500px 0; */
+    
+    
+}
+
+
+.aside-btn{
+    font-size: 0.7rem !important; 
+    /* display:none!important; */
+}
+
+.aside-btn-2{
+    background-color: #000000!important;
+    color:#fff !important;
+    border-radius: 20px!important;
+    /* display:none!important; */
+}
+
+.aside-nav-btn{
+    text-decoration: none !important;
+}
+
+.aside-btn-1:hover{
+    background-color: #000000!important;
+    color:#fff !important;
+    border-radius: 20px!important;
+    transition: all 1s;
+    /* display:none!important; */
+}
+
+.aside-bottom-text-container{
+    /* margin: 730px 25px; */
+    top:84%;
+    left:10%
+
+}
+.li-width{
+    width:165px;
+}
+
+.aside-rocket{
+    /* margin:550px 95px; */
+    top:52%;
+    left:18%;
+    z-index: 1;
+    /* display:none!important; */
+}
+
+.aside-small-cloud{
+    /* margin:570px 14px; */
+    top:63%;
+    left:4%;
+    z-index: 1;
+    /* display:none!important; */
+}
+
+.aside-cloud{
+    /* margin:550px 154px; */
+    top:61%;
+    left:62%;
+    z-index: 1;
+    /* display:none!important; */
+}
+/* AsideBar Icons */
+.icons-aside{
+    width:20px;
+    height:20px;
+    margin: 3px 1px;
+    
+    
+}
+
+.active-icon-aside.active{
+    filter: brightness(0) !important;
+}
+
+.text-color {
+    color:#696961
+}
+
+
+
+
+/* navbar */
+.navbar{
+   width:79vw; 
+   float: right;
+   
+   /* display:none!important; */
+}
+
+.nav-ul li{
+    display: inline;
+    margin:0px 20px;
+    /* display:none!important; */
+}
+
+.nav-ul{
+    margin:10px 40px;
+    /* display:none!important; */
+}
+
+
+.profile-img{
+    margin:0 10px;
+    /* display:none!important; */
+}
+
+.bell-icon{
+    margin:0 5px;
+    /* display:none!important; */
+}
+
+.search-icon{
+    margin:0 15px;
+    color:gray;
+    font-size:1.4rem;
+    /* display:none!important; */
+}
+
+.search-input{
+    width:420px;
+    background-color: #F4F3F3;
+    padding:5px;
+    border-radius:10px;
+    border: none;
+    font-size: 1.2rem !important;
+    /* display:none!important; */
+}
+
+.search-container{
+    width: 500px;
+    border-radius:10px;
+    padding:5px;
+    background-color: #F4F3F3;
+    /* display:none!important; */
+}
+
+#props-filter{
+    display:none;
+}
+
+
+/* Second Navbar */
+.second-nav{
+    width:900px;
+    float:right;
+    
+    margin: 5px 50px ;
+    /* display:none!important; */
+}
+.second-nav-ul{
+    margin:10px 0;
+    display: flex;
+    
+    /* display:none!important; */
+}
+
+.second-nav li{
+    /* display: flex; */
+    margin:0px 13px;
+    font-size: 1.1rem;
+    padding:3px 0px;
+    
+    
+    
+    /* display:flex */
+    /* display:none!important; */
+}
+
+.horizontal-line{
+    width:1090px;
+    float:right;
+    position:absolute;
+    top:20%;
+    left:19%;
+    /* display:none!important; */
+}
+
+.secNav-edit{
+    text-decoration: none;
+    color:#6A6960;
+    padding: 3px 15px;
+   
+    
+    
+    
+}
+
+
+/* Tutorials */
+.container-lg{
+    width:80%!important;
+    float:right;
+}
+
+.font-size{
+    font-size:1.1rem
+
+}
+.font-size3{
+    font-size:1.12rem
+}
+.font-size2{
+    font-size:1rem
+}
+
+.text-end{
+    margin: 10px 30px;
+    display: flex;
+}
+
+/* Templates */
+.psd{
+    font-weight: 400;
+    color:#6A6960;
+    font-size:0.9rem
+}
+
+.footer{
+    height:50px
+}
+.color-text-edit{
+    color:#6A6960!important;
+    font-weight: 400!important;
+}
+
+/* courses editing */
+.certified-container{
+    width:11vw;
+    background-color: #F8FFDD;
+}
+
+#props-certified{
+    display: none !important;;
+}
