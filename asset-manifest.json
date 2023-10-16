@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/DigitalMojo-frontend/static/css/main.1c352eab.css",
+    "main.js": "/DigitalMojo-frontend/static/js/main.74db27dd.js",
+    "static/media/Inspiration7.svg": "/DigitalMojo-frontend/static/media/Inspiration7.c1fd012570c53313f9ac880d936f2569.svg",
+    "static/media/Inspiration5.svg": "/DigitalMojo-frontend/static/media/Inspiration5.011413df8f85ea33a496e54e78ff7c07.svg",
+    "static/media/Inspiration9.svg": "/DigitalMojo-frontend/static/media/Inspiration9.ce903c97cddb23b8c675b2a0c3320273.svg",
+    "static/media/Inspiration3.svg": "/DigitalMojo-frontend/static/media/Inspiration3.a4c4455ad2345f923b46fd5676277700.svg",
+    "static/media/Inspiration8.svg": "/DigitalMojo-frontend/static/media/Inspiration8.881bf382719d66242f3b80d6e19ecc23.svg",
+    "static/media/Inspiration4.svg": "/DigitalMojo-frontend/static/media/Inspiration4.4d9d82cb1d13770f1d265ff13216bf86.svg",
+    "static/media/recentcourse1.png": "/DigitalMojo-frontend/static/media/recentcourse1.41467fb06e4fdf9cb8b9.png",
+    "static/media/Catalog2.png": "/DigitalMojo-frontend/static/media/Catalog2.d6244c220b1422f544c6.png",
+    "static/media/recentcourse2.png": "/DigitalMojo-frontend/static/media/recentcourse2.5656943a8066981929d7.png",
+    "static/media/Inspiration1.svg": "/DigitalMojo-frontend/static/media/Inspiration1.92958fab350c0598763528b5082c4c4a.svg",
+    "static/media/recentcourse4.png": "/DigitalMojo-frontend/static/media/recentcourse4.e2e94b50601c473420cb.png",
+    "static/media/recentcourse3.png": "/DigitalMojo-frontend/static/media/recentcourse3.79774c8294739320bd11.png",
+    "static/media/tutorials2.png": "/DigitalMojo-frontend/static/media/tutorials2.5be948676f4cba2663d3.png",
+    "static/media/tutorials1.png": "/DigitalMojo-frontend/static/media/tutorials1.401c29a7719aff664c85.png",
+    "static/media/tutorials3.png": "/DigitalMojo-frontend/static/media/tutorials3.f6b1ac1f924f321df820.png",
+    "static/media/Catalog4.png": "/DigitalMojo-frontend/static/media/Catalog4.3397547b5f13eac5a97a.png",
+    "static/media/tutorials4.png": "/DigitalMojo-frontend/static/media/tutorials4.168d868ae0d86c4f13aa.png",
+    "static/media/Inspiration6.svg": "/DigitalMojo-frontend/static/media/Inspiration6.04c0915365ecb34e8c950733f7754ba6.svg",
+    "static/media/TemplateProfile.svg": "/DigitalMojo-frontend/static/media/TemplateProfile.44a9d14454c326741fbbd67b28f263df.svg",
+    "static/media/Inspiration22.svg": "/DigitalMojo-frontend/static/media/Inspiration22.761be98a4965030146a59fcf078e22e3.svg",
+    "static/media/Catalog3.png": "/DigitalMojo-frontend/static/media/Catalog3.c50e11db284158adde28.png",
+    "static/media/Catalog.png": "/DigitalMojo-frontend/static/media/Catalog.28bc366574d6dea694f4.png",
+    "static/media/Rocket.png": "/DigitalMojo-frontend/static/media/Rocket.0077777eec948e678ef7.png",
+    "index.html": "/DigitalMojo-frontend/index.html",
+    "main.1c352eab.css.map": "/DigitalMojo-frontend/static/css/main.1c352eab.css.map",
+    "main.74db27dd.js.map": "/DigitalMojo-frontend/static/js/main.74db27dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c352eab.css",
+    "static/js/main.74db27dd.js"
+  ]
+}
