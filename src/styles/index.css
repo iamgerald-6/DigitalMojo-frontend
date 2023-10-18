@@ -4,7 +4,7 @@
     list-style-type: none !important;
 }
 
-/* Aside Bar */
+/* ###########################Aside Bar##################### */
 .text-color-title {
     color:#E9FF9D;
     font-family: Unbounded;
@@ -122,7 +122,7 @@
 
 
 
-
+/* ################################################# RESOURCES ########################################## */
 /* navbar */
 .navbar{
    width:79vw; 
@@ -183,7 +183,7 @@
 }
 
 
-/* Second Navbar */
+/* ############## Second Navbar ################### */
 .second-nav{
     width:900px;
     float:right;
@@ -230,7 +230,7 @@
 }
 
 
-/* Tutorials */
+/*#################### Tutorials #############################*/
 .container-lg{
     width:80%!important;
     float:right;
@@ -252,7 +252,7 @@
     display: flex;
 }
 
-/* Templates */
+/*############################## Templates ################################*/
 .psd{
     font-weight: 400;
     color:#6A6960;
@@ -267,7 +267,7 @@
     font-weight: 400!important;
 }
 
-/* courses editing */
+/*########################### courses editing ##############################*/
 .certified-container{
     width:11vw;
     background-color: #F8FFDD;
@@ -285,3 +285,46 @@
 .free-text-edit{
     color:#6A6960;
 }
+
+
+
+/* #########################################    WALLET PAGE########################################### */
+
+#props-search{
+    display:none
+}
+
+.wallet-container{
+    background-color: #DFF8E5!important;
+    /* margin:60px 0!important; */
+    border-radius: 14px;
+}
+/* progress bar */
+.progress-bar{
+    width:20vw;
+    height:5px;
+    border-radius:20px;
+    background-color: #fff!important;
+    
+}
+
+.progress-fill{
+    width:100%;
+    background-color: #00B934;
+    height:5px;
+}
+
+.topUp-btn{
+    height: 30px!important;
+    color:#00B934 !important;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: #fff;
+    border:none
+}
+
+.topUp-btn:hover{
+    background-color: #f2f8f0;
+    transition: all 0.4s;
+}
+/* Dollar Image */

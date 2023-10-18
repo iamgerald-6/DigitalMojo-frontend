@@ -20,7 +20,7 @@ export const NavPage = (props) => {
                  </ul>
             </div>
             <div className='d-flex'>
-            <div className='search-container mt-3 ms-2'>
+            <div id={props.element}className='search-container mt-3 ms-2'>
               <FiSearch className='search-icon'/><input className='search-input border border-0' type='search' placeholder='Search' />
               
             </div>
